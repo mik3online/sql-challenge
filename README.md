@@ -15,6 +15,7 @@ FILES:
 
 -EmployeeSQL_CODE_MichaelStrati.mssql --> "Create a .sql file of your queries."
 
+
 FOLDER "Data" // FILES in "Data" FOLDER:
 -departments.csv
 -dept_emp.csv
