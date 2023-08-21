@@ -11,6 +11,8 @@ FILES:
 
 -EmployeeSQL_EntityRelationshipDiagram_MichaelStrati.png --> "Create an image file of your ERD." // This is the PNG File of my Database Diagram
 
+-EmployeeSQL_EntityRelationshipDiagram_MichaelStrati_v02.jpg --> "Create an image file of your ERD." // This is the JPG File of my Database Diagram, made on QuickDBD
+
 -EmployeeSQL_DB_MichaelStrati.mssql --> "Create a .sql file of your table schemata." // This is the SQL file of my Tables
 
 -EmployeeSQL_CODE_MichaelStrati.mssql --> "Create a .sql file of your queries." // This is the SQL file of my Queries
