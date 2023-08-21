@@ -18,8 +18,16 @@ FILES:
 --------------------------------------
 FOLDER "Data" // FILES in "Data" FOLDER:
 
--departments.csv, 
+-departments.csv 
 
--dept_emp.csv, dept_manager.csv, employess.csv, salaries.csv, titles.csv
+-dept_emp.csv 
+
+-dept_manager.csv
+
+-employess.csv
+
+-salaries.csv
+
+-titles.csv
 
 --------------------------------------
